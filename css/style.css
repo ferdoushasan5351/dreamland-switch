@@ -12,6 +12,7 @@ main{
     float: left;
     width: 100%;
     overflow: hidden;
+    transition: 0.4s
 }
 header , section , footer{
     position: relative;
