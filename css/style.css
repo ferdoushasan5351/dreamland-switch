@@ -625,6 +625,9 @@ li{
     color: #000000;
     text-decoration: underline;
 }
+.dark-mode .news-link a{
+    color: #ffffff;
+}
 .news-link a:hover{
     color: #e26a2c;
 }
